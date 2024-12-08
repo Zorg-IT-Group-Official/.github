@@ -38,7 +38,7 @@ To be a leader in creative digital solutions, helping businesses thrive in a com
 
 ---
 
-## 👩‍💻 Team Members
+## 👩‍💻 Web Team Members
 
 - **[Abdur Rouf Jibon](#)** - Managing Director
 - **[Taiyeb Nirjhor](#)** - Frontend Developer
