@@ -32,7 +32,7 @@ To be a leader in creative digital solutions, helping businesses thrive in a com
 
 ## 🌟 Key Highlights
 
-- **Global Reach**: Offices in the USA, Canada, India, and Bangladesh.
+- **Global Reach**: Offices in the USA, Dubai and Bangladesh.
 - **Expert Team**: A passionate team of 19 professionals.
 - **Satisfied Clients**: 45+ clients across various industries.
 
