@@ -56,7 +56,7 @@ Explore our repositories for exciting projects, case studies, and open-source co
 ## 📫 Contact Us
 
 - **Website**: [zorgitgroup.com](https://www.zorgitgroup.com)
-- **Email**: [mail@zorgitgroup.com](mailto:mail@zorgitgroup.com)  
+- **Email**:  [rouf@zorgitgroup.com](mailto:rouf@zorgitgroup.com) or [mail@zorgitgroup.com](mailto:mail@zorgitgroup.com) 
 - **Location**:  Level 3, Ventura Iconia, Holding 37, Road 11, Block H, Banani 11, Dhaka, 1216. 
 - **Phone**: +880 1947-587061
 
