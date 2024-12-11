@@ -42,7 +42,7 @@ To be a leader in creative digital solutions, helping businesses thrive in a com
 
 - **[Abdur Rouf Jibon](#)** - Managing Director
 - **[Taiyeb Nirjhor](#)** - Frontend Developer
-- **[Anisur Rahman](#)** - Backend Developer
+
 
 ---
 
